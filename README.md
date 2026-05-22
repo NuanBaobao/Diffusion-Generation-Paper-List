@@ -197,7 +197,6 @@
 - [ADM：Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/pdf/2105.05233v4)
 
 ---
-# 综述
 # 2605
 ## Qwen-Image-VAE-2.0 Technical Report
 [https://arxiv.org/abs/2605.13565](https://arxiv.org/abs/2605.13565)
